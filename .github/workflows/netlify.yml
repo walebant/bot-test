@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-        name: 'Checkout source code'
+        name: Checkout source code
       - uses: actions/checkout@v2
 
         name: 'Setup Nodejs environment'
@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 12
 
-        name: 'Build the site'
+        name: Build the site
       - run: npm ci
       - run: npm run build
 
