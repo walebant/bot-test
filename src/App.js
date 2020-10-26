@@ -18,7 +18,7 @@ function App() {
         >
           Learn React NOW!
            ...balanced as all things should be!
-          nanannanan
+          HELP!!
         </a>
       </header>
     </div>
