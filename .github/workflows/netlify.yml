@@ -8,8 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source code
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        name: Checkout source code
 
       - name: 'Setup Nodejs environment'
         uses: actions/setup-node@v1
