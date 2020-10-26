@@ -17,8 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React NOW!
-           ...balanced as all things should be!
-          HELP!!
+          
         </a>
       </header>
     </div>
