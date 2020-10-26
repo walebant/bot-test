@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6aa8199b-9b15-4136-aa79-56b8b3bf08d0/deploy-status)](https://app.netlify.com/sites/romantic-brown-dbdb48/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
